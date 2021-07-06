@@ -1,7 +1,7 @@
 layout: cv
 title: Alexander Pletniov`s cv
 
-#Alexander Pletniov#
+*Alexander Pletniov*
 
 +375297451661(viber, telegramm, whatsapp), a-pletnev@mail.ru
 
