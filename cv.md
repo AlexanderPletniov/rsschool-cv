@@ -43,6 +43,7 @@ http://pletnev.bru.by/lend/index.html
 * Frameworks: bootstrap5, Parallax, Swiper js...
 * Editors: Sublimetext 3, Visual Studio Code
 ## IT-Education (courses):
+* NOW "JS / FRONT-END. STAGE 0" (Rolling Scopes School).
 * 06.2021 "Javascript: Dive" (https://wayup.in/library/course18).
 * 03.2021-06.2021 Full-time courses "IT-technologies: HTML, CSS, JavaScript ..." (IT laboratory of the Mogilev Regional Development Agency on the basis of the Belarusian-Russian University) with the defense of the "Tutor's Landing Page" project.
 ## Teacher Education:
