@@ -46,14 +46,14 @@ http://pletnev.bru.by/lend/index.html
 * NOW "JS / FRONT-END. STAGE 0" (Rolling Scopes School).
 * 06.2021 "Javascript: Dive" (https://wayup.in/library/course18).
 * 03.2021-06.2021 Full-time courses "IT-technologies: HTML, CSS, JavaScript ..." (IT laboratory of the Mogilev Regional Development Agency on the basis of the Belarusian-Russian University) with the defense of the "Tutor's Landing Page" project.
-## Teacher Education:
+## Education:
 * 2020 Advanced study of physics in grades 8-11 (Moscow Institute of Physics and Technology (National Research University)).
 * 2018 Scientific schools for physics teachers (Joint Institute for Nuclear Research in conjunction with the European Organization for Nuclear Research (CERN) in Switzerland).
 * 2003-2019 author's courses of professor of the Academy of Postgraduate Education N.I. Zaprudsky (annually), etc.
 * 1999-2002 Mogilev State University named after A.Kuleshov "State and municipal management", specialization economist-manager.
 * 1992-1997 Mogilev State Pedagogical Institute named after A.Kuleshov with a degree in physics and mathematics teacher. Bachelor of Science in Education.
 
-##My english
+## My english
 * A1
 * I'm working on it
 * Communication experience at the domestic (International Children's Center "Artek") and professional level in Switzerland (CERN)
