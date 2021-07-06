@@ -1,4 +1,5 @@
 # Alexander Pletniov
+![Alexander Pletniov](/путь/к/изображению.jpg)
 Physics teacher, qualification category "teacher-methodologist"
 ---
 <a href="http://pletnev.bru.by/lend/index.html">www.pletnev.bru.by</a>; 
