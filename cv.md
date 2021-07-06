@@ -1,7 +1,16 @@
-#Alexander Pletniov
+# Alexander Pletniov
 
-+375297451661(viber, telegramm, whatsapp), a-pletnev@mail.ru
+Physics teacher, qualification category "teacher-methodologist"
+---
+<a href="http://pletnev.bru.by/lend/index.html">www.pletnev.bru.by</a>; 
 
+<a href="https://ru.wikipedia.org/wiki/Плетнёв,_Александр_Эдуардович">My wikipedia page</a>
+
++375297451661 (viber, telegramm, whatsapp)
+
+a-pletnev@mail.ru
+
+---
 Краткая информация о себе (ваша цель и приоритеты, 
 подчеркните свои сильные стороны, 
 расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
