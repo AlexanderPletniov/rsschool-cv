@@ -1,1 +1,0 @@
-03.2021-06.2021 Full-time courses "IT-technologies: HTML, CSS, JavaScript ..." (IT laboratory of the Mogilev Regional Development Agency on the basis of the Belarusian-Russian University) with the defense of the "Tutor's Landing Page" project.
