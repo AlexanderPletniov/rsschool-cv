@@ -1,5 +1,5 @@
 # Alexander Pletniov
-![Alexander Pletniov](https://github.com/AlexanderPletniov/rsschool-cv/blob/main/i.jpg)
+![Alexander Pletniov](https://raw.githubusercontent.com/AlexanderPletniov/rsschool-cv/gh-pages/i.jpg)
 
 Physics teacher, qualification category "teacher-methodologist"
 ---
