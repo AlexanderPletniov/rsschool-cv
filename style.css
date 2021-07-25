@@ -1,0 +1,55 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+
+}
+.contaner{
+    max-width: 1000px;
+    margin: auto;
+}
+.header{
+    display:flex;
+    justify-content: space-around;
+}
+.header-text{
+    width: 50%;
+}
+.italic {
+    font-style: oblique;
+}
+.link {
+    text-decoration: none;
+    color: gray;
+}
+.link-in-text {
+    text-decoration: none;
+    color: gray;
+    border: 1px solid rgb(96, 206, 240);
+    ;
+    border-radius: 5px;
+    padding: 0px  10px;
+    
+}
+.header-img{
+    width: 50%;
+    background-image:  url(https://raw.githubusercontent.com/AlexanderPletniov/rsschool-cv/gh-pages/i.jpg);
+    background-size: cover;
+    
+}
+h2 {
+    text-decoration: underline;
+}
+ul{
+    border-bottom: 2px rgb(231, 228, 228) solid;
+}
+.footer{
+    display:flex;
+    justify-content: space-around;
+}
+.footer-text{
+    width: 50%;
+    text-align: left;
+}
+.footer-img{
+    width: 100px;
+    text-align: right;
+}
