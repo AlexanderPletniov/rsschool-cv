@@ -5,7 +5,7 @@
 body{
     
     max-width: 1920px;
-    font-family: 'Roboto Thin', arial;
+    font-family: 'Roboto', arial;
     font-weight: 100;
     font-size: 22px;
     margin: 0 auto;
@@ -27,8 +27,6 @@ body{
     max-width: 1440px;
     margin: 10px auto;
     padding: 0px 10px;
-    
-    
 }
 .nav {
     height: 200px;
@@ -39,17 +37,18 @@ body{
    
     background-color: black;
 }
-.nav_in {
+.nav-in {
     width: 50%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.navlink {
+.nav-link {
     text-decoration: none;
     font-style: thin;
     font-size: 22px;
     color:white;
+    padding-bottom: 20px;
 
 
 }
@@ -57,7 +56,7 @@ body{
     text-align: left;
     margin-top: 120px;
 
-   }
+}
 h1 {
     font-family: 'Forum', cursive;
     font-style: thin;
@@ -87,11 +86,12 @@ h1 {
     color:white;
 }
 
-.visiting{
-    padding-top: 50px;
+.visiting, .Video, .contacts{
+
+    padding-top: 80px;
     background-color: #fff;
 
-   }
+}
 .redline-wrapper{
     margin-bottom: 20px;
     border-bottom: solid #710707 3px;
@@ -104,7 +104,7 @@ h2 {
     margin: 0;
     letter-spacing: 5px;
     color:#9D8665;
-    }
+ }
 
 .card-wrapper{
     width: 100%;
@@ -121,7 +121,7 @@ h2 {
 }
 h4{
     font-family: 'Forum', cursive;
-    font-style: thin;
+    font-weight: 100;
     text-transform: uppercase;
     font-size: 32px;
     margin: 0;
@@ -144,8 +144,10 @@ h5{
     letter-spacing: 0px;
     color:#999999;
 }
-.explore{
+.explore, .tickets, .footer{
+    padding-top: 80px;
     background: black;
+    color: white;
 }
 .explore-wrapper{
     width: 100%;
@@ -168,7 +170,133 @@ h3 {
 .flex-el{
     width: 45%;
 }
+.colortext{
+    color:#CAAA7D;
+}
 .size22{
     font-size: 22px;
+}
+.black{
+    color: black;
+}
+.ti-title{
+    text-align: left;
+    font-weight: 900;
+    font-size: 28px;
+    margin:0;
+}
+.ti-wrapper{
     
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;    
+}
+
+.radio{
+    color: white;
+    font-family: 'Roboto', arial;
+    font-weight: 100;
+    font-size: 22px;
+    margin-bottom: 10px;
+    
+    display: inline-block;
+	cursor: pointer;
+	position: relative;
+	
+	line-height: 58px;
+	user-select: none;
+}
+.Amount{
+    
+}
+.ti-title-amount{
+    text-align: right;
+    font-weight: 900;
+    font-size: 28px;
+    margin:0;     
+}
+.box-wrapper{
+    padding-left:25px;
+}
+.box-cont{
+    text-align: left;
+    width: 150px;
+    margin: 0;
+}
+.age{
+    font-family: 'Roboto', arial;
+    font-weight: 100;
+    font-size: 22px;
+}
+.box-ti{
+    border:rgb(255, 255, 255) solid 2px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline; 
+}
+.boldy{
+    padding: 5px 10px;
+    font-family: 'Roboto', arial;
+    font-weight: 200;
+    font-size: 32px;
+}
+.thin1{
+    padding: 5px 10px;
+    font-family: 'Roboto', arial;
+    font-weight: 100;
+    font-size: 22px;
+}
+.buy-btn{
+    width: 175px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 13px;
+    font-family: 'Roboto Thin', arial;
+    font-style: thin;
+    font-weight: 100;
+    font-size: 22px;
+    color:black;
+}
+.ti-title-total{
+    text-align: right;
+    font-weight: 900;
+    font-size: 28px;
+    margin: 50px 0px;
+}
+.address{
+    width: 30%;
+}
+.address-title{
+    font-family: 'Roboto Thin', arial;
+    font-weight: 900;
+    font-size: 28px;
+    
+}
+.addres-text{
+    font-family: 'Roboto Thin', arial;
+    font-weight: 200;
+    font-size: 22px;
+}
+.footer-flex{
+    padding: 30px 0px 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;    
+}
+.nav-footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-top: 15px;
+    
+}
+.social{
+    padding-top: 80px; 
+    padding-left: 160px;   
+}
+.sosial-img{
+    padding-left: 20px;
 }
