@@ -1,1 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    
+    max-width: 1920px;
+    font-family: 'Roboto Thin', arial;
+    font-weight: 100;
+    font-size: 22px;
+    margin: 0 auto;
+    letter-spacing: 0.1em;
+}
 
+
+.header{
+    height: 950px;
+    text-align: center;
+    background-color: black;
+    background-image: url(assets/img/background.jpg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0px 10px;
+    
+    
+}
+.nav {
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+   
+    background-color: black;
+}
+.nav_in {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.navlink {
+    text-decoration: none;
+    font-style: thin;
+    font-size: 22px;
+    color:white;
+
+
+}
+.welcome{
+    text-align: left;
+    margin-top: 120px;
+
+   }
+h1 {
+    font-family: 'Forum', cursive;
+    font-style: thin;
+    text-transform: uppercase;
+    font-size: 80px;
+    margin: 0;
+    letter-spacing: 0.2em;
+    }
+.welcome-article{
+    margin: 20px 0px 70px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-style: light;
+    font-size: 28px;
+}
+.welcome-btn{
+    width: 359px;
+    height: 74px;
+    background-color: #710707;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 25px;
+    font-family: 'Roboto Thin', arial;
+    font-style: thin;
+    font-weight: 100;
+    font-size: 22px;
+    color:white;
+}
