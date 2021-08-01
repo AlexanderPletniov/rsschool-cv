@@ -34,21 +34,23 @@ body{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-   
     background-color: black;
 }
 .nav-in {
-    width: 50%;
+    max-width: 720px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 .nav-link {
     text-decoration: none;
+    font-family: 'Roboto', cursive;
+    font-weight: 100;
     font-style: thin;
     font-size: 22px;
     color:white;
     padding-bottom: 20px;
+    padding-left: 50px;
 
 
 }
@@ -68,7 +70,7 @@ h1 {
 .welcome-article{
     margin: 20px 0px 70px 0px;
     font-family: 'Roboto', sans-serif;
-    font-style: light;
+    font-style: thin;
     font-size: 28px;
     color:white
 }
@@ -162,7 +164,7 @@ h3 {
     font-family: 'Forum', cursive;
     font-style: thin;
     text-transform: uppercase;
-    font-size: 75px;
+    font-size: 70px;
     margin: 0;
     letter-spacing: 5px;
     color:white;
@@ -170,11 +172,15 @@ h3 {
 .flex-el{
     width: 45%;
 }
+.text-wrapper{
+    margin-top: 80px;
+}
 .colortext{
     color:#CAAA7D;
 }
 .size22{
     font-size: 22px;
+    letter-spacing: 0;
 }
 .black{
     color: black;
@@ -254,9 +260,8 @@ h3 {
     background-color: white;
     text-align: center;
     padding-top: 13px;
-    font-family: 'Roboto Thin', arial;
-    font-style: thin;
-    font-weight: 100;
+    font-family: 'Roboto', arial;
+    font-weight: 200;
     font-size: 22px;
     color:black;
 }
@@ -270,15 +275,17 @@ h3 {
     width: 30%;
 }
 .address-title{
-    font-family: 'Roboto Thin', arial;
+    font-family: 'Roboto', arial;
     font-weight: 900;
     font-size: 28px;
+    letter-spacing: 0;
     
 }
 .addres-text{
-    font-family: 'Roboto Thin', arial;
+    font-family: 'Roboto light', arial;
     font-weight: 200;
     font-size: 22px;
+    letter-spacing: 0;
 }
 .footer-flex{
     padding: 30px 0px 60px;
@@ -294,7 +301,7 @@ h3 {
     
 }
 .social{
-    padding-top: 80px; 
+    padding-top: 90px; 
     padding-left: 160px;   
 }
 .sosial-img{
