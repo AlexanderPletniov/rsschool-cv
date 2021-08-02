@@ -1,4 +1,6 @@
 
+
+
 * {
     box-sizing: border-box;
     scroll-behavior: smooth;
@@ -373,7 +375,7 @@ h3 {
     padding-left: 160px;  
     margin-bottom: 0; 
 }
-.soСЃial-img{
+.soсial-img{
     display: inline-block;
     position: relative;
     padding-left: 20px;
@@ -392,20 +394,20 @@ h3 {
     z-index: 999;
     display: none;
 }
-.soСЃial-img:hover .golden{
+.soсial-img:hover .golden{
     display: block;
     opacity: 0.2;
 }
  
 
 /*input type="range" design*/
-input[type='range'] {                /*С†РІРµС‚ РЅРµРїСЂРѕР№РґРµРЅРѕ*/           
+input[type='range'] {                /*цвет непройдено*/           
     overflow: hidden;
     width: 80px;
     appearance: none;
     background-color: #C4C4C4;
   }
-input[type='range']::-webkit-slider-runnable-track { /*РІС‹СЃРѕС‚Р° РїРѕР»РѕСЃС‹ РїСЂРѕРєСЂСѓС‚РєРё*/
+input[type='range']::-webkit-slider-runnable-track { /*высота полосы прокрутки*/
     height: 10px;
     appearance: none;
     margin-top: -1px;
@@ -416,6 +418,6 @@ input[type='range']::-webkit-slider-thumb {
     height: 10px;
     border-radius: 5px;
     cursor: ew-resize;
-    background: #ffffff;                    /*С‚РѕС‡РєР°*/
-    box-shadow: -410px 0 0 410px #24809E;   /*С…РІРѕСЃС‚ С‚РѕС‡РєРё РїРѕР»РѕРІРёРЅР° РґР»РёРЅС‹ РїРѕР»РѕСЃС‹ СѓСЃС‚Р°РЅР°РІРёРІР°РµС‚СЃСЏ*/
+    background: #ffffff;                    /*точка*/
+    box-shadow: -410px 0 0 410px #24809E;   /*хвост точки половина длины полосы устанавивается*/
   }
